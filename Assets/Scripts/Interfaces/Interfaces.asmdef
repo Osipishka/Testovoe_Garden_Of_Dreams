@@ -1,0 +1,6 @@
+{
+    "name": "Interfaces",
+    "references": ["Data"],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

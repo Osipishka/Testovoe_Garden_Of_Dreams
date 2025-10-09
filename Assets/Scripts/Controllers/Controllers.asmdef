@@ -1,0 +1,6 @@
+{
+    "name": "Controllers", 
+    "references": ["Core", "Data", "Interfaces", "SaveAndLoad"],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -1,0 +1,6 @@
+{
+    "name": "SaveAndLoad",
+    "references": ["Interfaces", "Data"],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

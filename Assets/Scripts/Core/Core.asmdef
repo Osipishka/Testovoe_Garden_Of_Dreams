@@ -1,0 +1,6 @@
+{
+    "name": "Core",
+    "references": ["Unity.InputSystem", "Data"],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
